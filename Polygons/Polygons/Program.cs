@@ -15,6 +15,15 @@ namespace Polygons
             Square _square = new Square(100);
             DisplayPolygon("Square", _square);
 
+
+
+            Triangle _triangle = new Triangle(200);
+            DisplayPolygon("Triangle", _triangle);
+
+
+            Octagon _octagon = new Octagon(300);
+            DisplayPolygon("Octagon", _octagon);
+
             Console.ReadLine();
         }
 
