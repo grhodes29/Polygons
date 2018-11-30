@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Polygons")]
-[assembly: AssemblyDescription("Pluralsight Jeremy Clark C# interfaces")]
+[assembly: AssemblyTitle("ACM.BL")]
+[assembly: AssemblyDescription("Pluralsight Deborah Kurata Object-Oriented Programming Fundamentals in C#")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("Polygons")]
+[assembly: AssemblyProduct("ACM.BL")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("782d1677-6b66-46aa-9766-a6f73846d43d")]
+[assembly: Guid("523a85ee-cfe6-4521-ab25-7f0ba5c4c2c0")]
 
 // Version information for an assembly consists of the following four values:
 //
